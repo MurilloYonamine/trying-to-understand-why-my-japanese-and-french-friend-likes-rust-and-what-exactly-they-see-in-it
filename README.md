@@ -16,7 +16,7 @@
 <div align="center">
   <a href=https://github.com/MurilloYonamine/trying-to-understand-why-my-japanese-and-french-friend-likes-rust-and-what-exactly-they-see-in-it
   >
-    <img src="assets/rust-logo.png" alt="Logo" width="420" height="232">
+    <img src="assets/rust-logo.png" alt="Rust Logo" width="420" height="232">
   </a>
 
   <h3 align="center">Trying to understand why my Japanese and French friend likes Rust and what exactly they see in it</h3>
@@ -27,7 +27,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a project to learn Rust and understand the magic of the language.
+<div>
+
+<div style="display: flex; align-items: flex-start; gap: 32px;">
+  <img src="assets/the-rust-programming-language-book.jpg" alt="The Rust Programming Language Book" width="259" height="342">
+  <div>
+    <p style="text-align: justify; font-size: 20px;">
+      This is a project to learn Rust and understand the magic of the language.<br>
+      I am using the free book named "The Rust Programming Language" by Steve Klabnik, Carol Nichols, and Chris Krycho, with contributions from the Rust Community.<br>
+      My goal is to test each element presented in the book, creating practical examples to understand how they work in real scenarios.<br>
+      I will organize each experiment in a specific folder and register everything I do in the table of contents below, making it easier to navigate and track the project's progress.<br>
+      Link for the book: <a href="https://doc.rust-lang.org/stable/book/index.html" target="_blank">https://doc.rust-lang.org/stable/book/index.html</a>
+    </p>
+
+
+  </div>
+</div>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

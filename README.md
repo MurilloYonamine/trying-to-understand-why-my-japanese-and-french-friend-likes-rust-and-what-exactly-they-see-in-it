@@ -58,6 +58,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="simple-hello-world/">Simple Hello World</a></li>
+    <li><a href="guessing-game/">Guessing Game</a></li>
   </ol>
 </details>
 
